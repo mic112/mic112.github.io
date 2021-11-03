@@ -38,11 +38,11 @@ Java基础类的面试，我主要从以下几个方面进行整理和收集。
 
 [[8]用过final关键字吗？它有什么作用](base/JavaSE基础面试题/8.md)
 
-[[9]private修饰的方法可以通过反射访问，那么private的意义是什么](base/JavaSE基础面试题/9.md)
+[[9]写一个你认为最好的单例模式](base/JavaSE基础面试题/9.md)
 
-[[10]一个java文件有3个类，编译后有几个class文件](base/JavaSE基础面试题/10.md)
+[[10]final、finally、finalize的区别](base/JavaSE基础面试题/10.md)
 
-[[11]写一个你认为最好的单例模式](base/JavaSE基础面试题/11.md)
+[[11]说说你对泛型的理解?](base/JavaSE基础面试题/11.md)
 
 [[12]String a = "ab"; String b = "a" + "b"; a == b 是否相等](base/JavaSE基础面试题/12.md)
 
@@ -51,6 +51,28 @@ Java基础类的面试，我主要从以下几个方面进行整理和收集。
 [[14]了解注解吗？请阐述注解的原理](base/JavaSE基础面试题/14.md)
 
 [[15]String和StringBuilder、StringBuffer的区别？](base/JavaSE基础面试题/15.md)
+
+# 集合框架面试题
+
+[[0]从接口、类的角度简述集合框架体系结构]()
+
+[[1]说出ArrayList,Vector, LinkedList的存储性能和特性]()
+
+[[2]Collection和Collections的区别，HashMap和Hashtable的区别]() 
+
+[[3]List, Set, Map是否继承自Collection接口]() 
+
+[[4]Set里的元素是不能重复的，那么用什么方法来区分重复与否呢?]() 
+
+[[5]集合排序的常见二种写法？]() 
+
+[[6]如何将数组转换成集合，集合转换成数组?]()
+
+[[7]如何对各种集合进行迭代？]()
+
+[[8]Entryset？]() 
+
+
 
 # Java并发编程面试题
 
