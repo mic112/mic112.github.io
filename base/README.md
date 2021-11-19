@@ -46,11 +46,9 @@ Java基础类的面试，我主要从以下几个方面进行整理和收集。
 
 [[12]String a = "ab"; String b = "a" + "b"; a == b 是否相等](base/JavaSE基础面试题/12.md)
 
-[[13]int a = 1; 是原子性操作吗](base/JavaSE基础面试题/13.md)
+[[13]了解注解吗？请阐述注解的原理](base/JavaSE基础面试题/13.md)
 
-[[14]了解注解吗？请阐述注解的原理](base/JavaSE基础面试题/14.md)
-
-[[15]String和StringBuilder、StringBuffer的区别？](base/JavaSE基础面试题/15.md)
+[[14]String和StringBuilder、StringBuffer的区别？](base/JavaSE基础面试题/14.md)
 
 # 集合框架面试题
 
